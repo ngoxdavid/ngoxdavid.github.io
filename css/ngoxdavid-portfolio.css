@@ -291,3 +291,6 @@ header.masthead p {
   padding-bottom: 5px;
 }
 
+.dishdash:hover, .dishdash:focus, .dishdash:active  {
+  color: #3c7cc1 !important;
+}
